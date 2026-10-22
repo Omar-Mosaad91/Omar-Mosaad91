@@ -54,5 +54,4 @@ Turning raw data into insights, dashboards, and actionable solutions.
 ![Omar's GitHub stats](https://github-readme-stats.shion.dev/api?username=Omar-Mosaad91&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
  
 ![Omar's streak](https://streak-stats.demolab.com/?user=Omar-Mosaad91&theme=dark&hide_border=true)
- 
-Claude finished the response
+
