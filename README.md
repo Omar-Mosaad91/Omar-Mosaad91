@@ -55,9 +55,4 @@ Turning raw data into insights, dashboards, and actionable solutions.
  
 ![Omar's streak](https://streak-stats.demolab.com/?user=Omar-Mosaad91&theme=dark&hide_border=true)
  
-![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Omar-Mosaad91&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
- 
----
- 
-![Profile views](https://komarev.com/ghpvc/?username=Omar-Mosaad91&icon=0&color=0)
- 
+Claude finished the response
