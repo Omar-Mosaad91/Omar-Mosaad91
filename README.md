@@ -20,6 +20,7 @@ Turning raw data into insights, dashboards, and actionable solutions.
 ## 💻 Tech Stack
  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -28,6 +29,12 @@ Turning raw data into insights, dashboards, and actionable solutions.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
  
+---
+ 
+## 🌍 Languages
+ 
+- 🇪🇬 **Arabic:** Native
+- 🇬🇧 **English:** Professional working proficiency
 ---
  
 ## 📁 Featured Projects
@@ -52,4 +59,5 @@ Turning raw data into insights, dashboards, and actionable solutions.
  
 ---
  
-[![](https://komarev.com/ghpvc/?username=Omar-Mosaad91&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=Omar-Mosaad91&icon=0&color=0)
+ 
