@@ -52,6 +52,4 @@ Turning raw data into insights, dashboards, and actionable solutions.
  
 ---
  
-![Profile views](https://komarev.com/ghpvc/?username=Omar-Mosaad91&icon=0&color=0)
- 
-Claude finished the response
+[![](https://komarev.com/ghpvc/?username=Omar-Mosaad91&icon=0&color=0)](https://visitcount.itsvg.in)
